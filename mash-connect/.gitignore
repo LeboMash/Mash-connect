@@ -1,0 +1,9 @@
+backend/mashconnect.db
+backend/uploads/*
+!backend/uploads/.gitkeep
+frontend/node_modules/
+frontend/dist/
+*.pyc
+__pycache__/
+.env
+.DS_Store
